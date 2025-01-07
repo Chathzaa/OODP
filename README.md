@@ -6,11 +6,11 @@ This repository contains the code for Object-Oriented Design Patterns (OODP) in 
 
 This repository includes the following design patterns:
 
--Singleton
--Factory
--Observer
--Strategy
--Decorator
--Adapter
--Command
--State
+- Singleton
+- Factory
+- Observer
+- Strategy
+- Decorator
+- Adapter
+- Command
+- State
